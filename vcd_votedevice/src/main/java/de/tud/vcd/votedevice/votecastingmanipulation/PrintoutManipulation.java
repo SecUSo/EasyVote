@@ -1,5 +1,7 @@
 package de.tud.vcd.votedevice.votecastingmanipulation;
 
+//Autor Jurlind Budurushi
+
 import de.tud.vcd.votedevice.municipalElection.model.BallotCard;
 import de.tud.vcd.votedevice.municipalElection.model.Candidate;
 import de.tud.vcd.votedevice.municipalElection.model.Party;
