@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>de.tud.vcd</groupId>
+		<artifactId>vcd_parent</artifactId>
+		<version>0.0.3.ROMAN-SNAPSHOT</version>
+		<relativePath>../vcd_parent/pom.xml</relativePath>
+	</parent>
+
+	<artifactId>vcd_commons</artifactId>
+	<name>Commons</name>
+	<description>Classes for all modules</description>
+
+
+<dependencies>
+  
+    <!-- source dependencies: -->
+  	
+  	
+  	<!-- project dependencies: -->
+  	<dependency>
+    <groupId>org.simpleframework</groupId>
+    <artifactId>simple-xml</artifactId>
+    <version>2.6.9</version>
+</dependency>
+  	
+  </dependencies>
+
+</project>

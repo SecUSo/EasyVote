@@ -1,0 +1,509 @@
+<wahlzettelDesign>
+   <election_id>00000</election_id>
+   <election_name>Meine private Wahl</election_name>
+   <design>
+      <property key="ANZAHLPARTEIENGLEICHZEITIG">1</property>
+      <property key="MANUELLESUNGUELTIG">1</property>
+      <property key="KANDIDATENPROSPALTE">40</property>
+      <property key="VOTESPROKANDIDAT">3</property>
+      <property key="VSPACE">1</property>
+      <property key="MAXSTIMMEN">71</property>
+	  <property key="LINEHEIGHT">5</property>
+      <property key="ABSTANDRAND">10</property>
+      <property key="NAMEWIDTH">45</property>
+      <property key="HSPACE">1</property>
+      <property key="NRWIDTH">20</property>
+      <property key="STARTHOEHE">50</property>
+	  <property key="INFOBOXSTARTHOEHE">20</property>
+	  <property key="PAGEWIDTH">210</property>
+	  <property key="PAGEHEIGHT">297</property>
+	  <property key="QR_X">130</property>
+	  <property key="QR_Y">260</property>
+	  <property key="QR_W">30</property>
+	  <property key="QR_H">30</property>
+	  <property key="QRCODELESEN">1</property>
+   </design>
+    <party length="10">
+      <string>CDU</string>
+      <string>SPD</string>
+      <string>FDP</string>
+	  <string>GRÜNE</string>
+	  <string>DIE LINKE</string>
+	  <string>UFFBASSE</string>
+	  <string>BIG</string>
+	  <string>PIRATEN</string>
+	  <string>UWIGA</string>
+	  <string>FWDA</string>
+   </party>
+   <candidates>
+      <candidate id="101" name="Reißer" prename="Rafael" partei="CDU" />
+<candidate id="102" name="Klaff-Isselmann" prename="Irmgard" partei="CDU" />
+<candidate id="103" name="Kotoucek" prename="Ctirad" partei="CDU" />
+<candidate id="104" name="Dr. Gehrke" prename="Wolfgang" partei="CDU" />
+<candidate id="105" name="Achenbach" prename="Ludwig" partei="CDU" />
+<candidate id="106" name="Kölsch" prename="Beate" partei="CDU" />
+<candidate id="107" name="Schellenberg" prename="André" partei="CDU" />
+<candidate id="108" name="Wegel" prename="Hans" partei="CDU" />
+<candidate id="109" name="Jourdan" prename="Hartwig" partei="CDU" />
+<candidate id="110" name="Sturm" prename="Anna-Maria" partei="CDU" />
+<candidate id="111" name="Kins" prename="Wilhelm" partei="CDU" />
+<candidate id="112" name="Krenzke" prename="Manuel" partei="CDU" />
+<candidate id="113" name="Schmitt" prename="Dorothee" partei="CDU" />
+<candidate id="114" name="Schneider" prename="Uwe" partei="CDU" />
+<candidate id="115" name="Mayer" prename="Peter" partei="CDU" />
+<candidate id="116" name="Jost-Göckel" prename="Irene" partei="CDU" />
+<candidate id="117" name="Töns" prename="Karl-Heinz" partei="CDU" />
+<candidate id="118" name="Heil" prename="Martin" partei="CDU" />
+<candidate id="119" name="Heckmann" prename="Andreas" partei="CDU" />
+<candidate id="120" name="Listner" prename="Maria-Pia" partei="CDU" />
+<candidate id="121" name="Föhrenbach" prename="Karl-Peter" partei="CDU" />
+<candidate id="122" name="von Prümmer" prename="Klaus" partei="CDU" />
+<candidate id="123" name="Klein" prename="Rudolf" partei="CDU" />
+<candidate id="124" name="Eichner" prename="Tanja" partei="CDU" />
+<candidate id="125" name="Franz" prename="Peter" partei="CDU" />
+<candidate id="126" name="Riwalsky" prename="Marcel" partei="CDU" />
+<candidate id="127" name="Reißer" prename="Andrea" partei="CDU" />
+<candidate id="128" name="Dr. Pillitteri" prename="Daniele" partei="CDU" />
+<candidate id="129" name="Kehl" prename="Knut" partei="CDU" />
+<candidate id="130" name="Kubal" prename="Manfred" partei="CDU" />
+<candidate id="131" name="Rietsch" prename="Hans Walter" partei="CDU" />
+<candidate id="132" name="Klein" prename="Stephanie" partei="CDU" />
+<candidate id="133" name="Kirch" prename="Rene" partei="CDU" />
+<candidate id="134" name="Middel" prename="Clemens" partei="CDU" />
+<candidate id="135" name="Hönig" prename="Hans-Michael" partei="CDU" />
+<candidate id="136" name="Kunze" prename="Heinz-Bodo" partei="CDU" />
+<candidate id="137" name="Wandrey" prename="Paul" partei="CDU" />
+<candidate id="138" name="Bode" prename="Alexander" partei="CDU" />
+<candidate id="139" name="Tsorakis" prename="Michaela" partei="CDU" />
+<candidate id="140" name="Lerch" prename="Marvin" partei="CDU" />
+<candidate id="141" name="Esselborn" prename="Veronika" partei="CDU" />
+<candidate id="142" name="Falke" prename="Christian" partei="CDU" />
+<candidate id="143" name="Töns" prename="Jan" partei="CDU" />
+<candidate id="144" name="Lorang" prename="Christof" partei="CDU" />
+<candidate id="145" name="Buß" prename="Bernd" partei="CDU" />
+<candidate id="146" name="Heinz-Becker" prename="Edith" partei="CDU" />
+<candidate id="147" name="Sturm" prename="Leif" partei="CDU" />
+<candidate id="148" name="Schreiner" prename="Christa" partei="CDU" />
+<candidate id="149" name="Gompf" prename="Paul" partei="CDU" />
+<candidate id="150" name="Ostendorf" prename="Julian" partei="CDU" />
+<candidate id="151" name="Dächert" prename="Ulrich" partei="CDU" />
+<candidate id="152" name="Hirschmann" prename="Günter" partei="CDU" />
+<candidate id="153" name="Pfeffermann" prename="Ulrich" partei="CDU" />
+<candidate id="154" name="Klemann" prename="Ingeborg" partei="CDU" />
+<candidate id="155" name="Dupper" prename="Ute" partei="CDU" />
+<candidate id="156" name="Dr" prename="Steck, Roland" partei="CDU" />
+<candidate id="157" name="Helfmann" prename="Alfred" partei="CDU" />
+<candidate id="158" name="Dr" prename="Dauber, Desiree" partei="CDU" />
+<candidate id="159" name="Bäuerlein" prename="Anna Lydia" partei="CDU" />
+<candidate id="160" name="Irmler" prename="Christina" partei="CDU" />
+<candidate id="161" name="Wobbe" prename="Alexander" partei="CDU" />
+<candidate id="162" name="Pelizaeus" prename="Helene" partei="CDU" />
+<candidate id="163" name="Jourdan" prename="Peter" partei="CDU" />
+<candidate id="164" name="Gehrke" prename="Kirsten" partei="CDU" />
+<candidate id="165" name="Kappler" prename="Doris" partei="CDU" />
+<candidate id="166" name="Heil" prename="Monika" partei="CDU" />
+<candidate id="167" name="Schmidt-Brücken" prename="Katharina" partei="CDU" />
+<candidate id="168" name="Schmidt" prename="Helmut" partei="CDU" />
+<candidate id="169" name="Grasso" prename="Giuseppe" partei="CDU" />
+<candidate id="201" name="Siebel" prename="Michael" partei="SPD" />
+<candidate id="202" name="Benz" prename="Hanno" partei="SPD" />
+<candidate id="203" name="Seidler" prename="Sabine" partei="SPD" />
+<candidate id="204" name="Beller" prename="Rita" partei="SPD" />
+<candidate id="205" name="Busch" prename="Gerhard" partei="SPD" />
+<candidate id="206" name="Metzger" prename="Dagmar" partei="SPD" />
+<candidate id="207" name="Röder" prename="Moritz" partei="SPD" />
+<candidate id="208" name="Heilmann" prename="Sabine" partei="SPD" />
+<candidate id="209" name="Umberti" prename="Santo" partei="SPD" />
+<candidate id="210" name="Knechtel" prename="Ursula" partei="SPD" />
+<candidate id="211" name="Härter" prename="Horst Adalbert" partei="SPD" />
+<candidate id="212" name="Kosub" prename="Katrin" partei="SPD" />
+<candidate id="213" name="Hoffmann" prename="Moritz" partei="SPD" />
+<candidate id="214" name="Bradna" prename="Monika" partei="SPD" />
+<candidate id="215" name="Schmidt" prename="Walter" partei="SPD" />
+<candidate id="216" name="Plehnert" prename="Julia" partei="SPD" />
+<candidate id="217" name="Dr. Roßmann" prename="Torsten" partei="SPD" />
+<candidate id="218" name="Reitz" prename="Corinna" partei="SPD" />
+<candidate id="219" name="Aslan" prename="Yasemin" partei="SPD" />
+<candidate id="220" name="Huß" prename="Tim" partei="SPD" />
+<candidate id="221" name="Oellinger" prename="Rainer" partei="SPD" />
+<candidate id="222" name="Russo" prename="Sandra" partei="SPD" />
+<candidate id="223" name="Schüttler" prename="Peter" partei="SPD" />
+<candidate id="224" name="Roßbach-Jauernik" prename="Patricia" partei="SPD" />
+<candidate id="225" name="Barginda" prename="Karsten" partei="SPD" />
+<candidate id="226" name="Schischkin" prename="Maria" partei="SPD" />
+<candidate id="227" name="Oblaski" prename="Toni" partei="SPD" />
+<candidate id="228" name="Hausmann" prename="Heinrich" partei="SPD" />
+<candidate id="229" name="Dobelmann" prename="Karin" partei="SPD" />
+<candidate id="230" name="Höpp" prename="Günter" partei="SPD" />
+<candidate id="231" name="Lücke" prename="Barbara" partei="SPD" />
+<candidate id="232" name="Staudt" prename="Felix" partei="SPD" />
+<candidate id="233" name="Dr. Wöhlermann" prename="Katharina" partei="SPD" />
+<candidate id="234" name="Reis" prename="Tobias" partei="SPD" />
+<candidate id="235" name="Poth" prename="Ulrike" partei="SPD" />
+<candidate id="236" name="Friedrich" prename="Torsten" partei="SPD" />
+<candidate id="237" name="Bellmann" prename="Judith" partei="SPD" />
+<candidate id="238" name="Dr. Zior" prename="Franz" partei="SPD" />
+<candidate id="239" name="Prochaska" prename="Jutta" partei="SPD" />
+<candidate id="240" name="Arnold-Münzberg" prename="Thomas" partei="SPD" />
+<candidate id="241" name="Plötz" prename="Ursula" partei="SPD" />
+<candidate id="242" name="Cankurt" prename="Duran" partei="SPD" />
+<candidate id="243" name="Dr. Wessels" prename="Christiane" partei="SPD" />
+<candidate id="244" name="Dr. Uebe" prename="Klaus" partei="SPD" />
+<candidate id="245" name="Härter" prename="Samantha" partei="SPD" />
+<candidate id="246" name="Horneff" prename="Frank" partei="SPD" />
+<candidate id="247" name="Krüger" prename="Gerda" partei="SPD" />
+<candidate id="248" name="Adam" prename="Yousef" partei="SPD" />
+<candidate id="249" name="Schmidt" prename="Petra" partei="SPD" />
+<candidate id="250" name="Lewandowsky" prename="Wilfried" partei="SPD" />
+<candidate id="251" name="Ott" prename="Maria" partei="SPD" />
+<candidate id="252" name="Koc" prename="Hakki" partei="SPD" />
+<candidate id="253" name="Müller" prename="Nina" partei="SPD" />
+<candidate id="254" name="Martella" prename="Daniele" partei="SPD" />
+<candidate id="255" name="Matthes" prename="Richard" partei="SPD" />
+<candidate id="256" name="Mucha" prename="Ortrud" partei="SPD" />
+<candidate id="257" name="Ritter" prename="Johannes" partei="SPD" />
+<candidate id="258" name="Dr. Dahlhaus" prename="Elias" partei="SPD" />
+<candidate id="259" name="Lang" prename="Eberhard" partei="SPD" />
+<candidate id="260" name="Hafner" prename="Georg" partei="SPD" />
+<candidate id="261" name="Schmitt" prename="Sebastian" partei="SPD" />
+<candidate id="262" name="Alam" prename="Naser" partei="SPD" />
+<candidate id="263" name="Schiffer" prename="Norbert" partei="SPD" />
+<candidate id="264" name="Springfeld" prename="Udo" partei="SPD" />
+<candidate id="265" name="Eberle" prename="Rosemarie" partei="SPD" />
+<candidate id="266" name="Bartels" prename="Ingo" partei="SPD" />
+<candidate id="267" name="Ihle" prename="Jörg" partei="SPD" />
+<candidate id="268" name="Grabow" prename="Udo" partei="SPD" />
+<candidate id="269" name="Lehr" prename="Monika" partei="SPD" />
+<candidate id="301" name="Blum" prename="Leif" partei="FDP" />
+<candidate id="302" name="Dr. Molter" prename="Dierk" partei="FDP" />
+<candidate id="303" name="Klein" prename="Sandra" partei="FDP" />
+<candidate id="304" name="Arnemann" prename="Ralf" partei="FDP" />
+<candidate id="305" name="May" prename="Andreas" partei="FDP" />
+<candidate id="306" name="Dr. Duckheim" prename="Willy" partei="FDP" />
+<candidate id="307" name="Thierfeld" prename="Alexander" partei="FDP" />
+<candidate id="308" name="Kürschner" prename="Martin" partei="FDP" />
+<candidate id="309" name="Dr. Fischer" prename="Marcel" partei="FDP" />
+<candidate id="310" name="Beißwenger" prename="Sven" partei="FDP" />
+<candidate id="311" name="Ziegler" prename="Michael" partei="FDP" />
+<candidate id="312" name="Schnellbächer" prename="Dieter" partei="FDP" />
+<candidate id="313" name="Dr. Sabais" prename="Frank" partei="FDP" />
+<candidate id="314" name="Behrend" prename="Jana" partei="FDP" />
+<candidate id="315" name="Dr. Hund" prename="Reinhard" partei="FDP" />
+<candidate id="316" name="Hentzen" prename="Christoph" partei="FDP" />
+<candidate id="317" name="Wunderlich" prename="Jan Hendrik" partei="FDP" />
+<candidate id="318" name="Dr. Cuny" prename="Reinhard" partei="FDP" />
+<candidate id="319" name="Lamp" prename="Norbert" partei="FDP" />
+<candidate id="320" name="Britz" prename="Harald" partei="FDP" />
+<candidate id="321" name="Kunz" prename="Manfred" partei="FDP" />
+<candidate id="322" name="Dr. Claus" prename="Detlef" partei="FDP" />
+<candidate id="323" name="Claus" prename="Gabriele" partei="FDP" />
+<candidate id="324" name="Hartel" prename="Günter" partei="FDP" />
+<candidate id="325" name="Keppel" prename="Elke" partei="FDP" />
+<candidate id="326" name="Haumann" prename="Sebastian" partei="FDP" />
+<candidate id="327" name="Gmeiner" prename="Jutta" partei="FDP" />
+<candidate id="328" name="Dr. Trapp" prename="Bernd" partei="FDP" />
+<candidate id="329" name="Balzer" prename="Karl-Dieter" partei="FDP" />
+<candidate id="330" name="Bachmann" prename="Hendrik" partei="FDP" />
+<candidate id="331" name="Best" prename="Heinrich" partei="FDP" />
+<candidate id="332" name="Blankenburg" prename="Dietrich" partei="FDP" />
+<candidate id="333" name="Winkel" prename="Bruno" partei="FDP" />
+<candidate id="334" name="Friedrich-Wallus" prename="Margarete" partei="FDP" />
+<candidate id="335" name="Daßler" prename="Marc" partei="FDP" />
+<candidate id="336" name="Günther" prename="Doris" partei="FDP" />
+<candidate id="337" name="Haas" prename="Hartmut" partei="FDP" />
+<candidate id="338" name="Dr. Hechler" prename="Jochen" partei="FDP" />
+<candidate id="339" name="Dr. Kleinstück" prename="Hermann" partei="FDP" />
+<candidate id="340" name="Handschuch" prename="Tobias" partei="FDP" />
+<candidate id="341" name="Krüger" prename="Kai" partei="FDP" />
+<candidate id="342" name="Steinigeweg" prename="Dieter" partei="FDP" />
+<candidate id="343" name="Eichler" prename="Ulrich" partei="FDP" />
+<candidate id="344" name="Sillus" prename="Torsten" partei="FDP" />
+<candidate id="345" name="Heiberger" prename="Florian" partei="FDP" />
+<candidate id="346" name="Korf" prename="Willy" partei="FDP" />
+<candidate id="347" name="Dr. Loos" prename="Michael" partei="FDP" />
+<candidate id="348" name="Lortz-Hungerland" prename="Anneliese" partei="FDP" />
+<candidate id="349" name="Mehl" prename="Albrecht" partei="FDP" />
+<candidate id="350" name="Dr. Steinheisser" prename="Dörte" partei="FDP" />
+<candidate id="351" name="Lubig" prename="Peter" partei="FDP" />
+<candidate id="352" name="Hurst" prename="Sylvia" partei="FDP" />
+<candidate id="353" name="Pausch-Garber" prename="Gisela" partei="FDP" />
+<candidate id="354" name="Sabais" prename="Daniel" partei="FDP" />
+<candidate id="355" name="Dr. Hoffmann" prename="Paul" partei="FDP" />
+<candidate id="356" name="Schöck" prename="Raimund" partei="FDP" />
+<candidate id="357" name="Weiler" prename="Frank" partei="FDP" />
+<candidate id="358" name="Dr. Ramm" prename="Renate" partei="FDP" />
+<candidate id="359" name="Dr. Steinheisser" prename="Udo" partei="FDP" />
+<candidate id="401" name="Lindscheid" prename="Brigitte" partei="GRÜNE" />
+<candidate id="402" name="Akdeniz" prename="Yücel" partei="GRÜNE" />
+<candidate id="403" name="Förster-Heldmann" prename="Hildegard" partei="GRÜNE" />
+<candidate id="404" name="Sperling" prename="Christopher" partei="GRÜNE" />
+<candidate id="405" name="Behr" prename="Iris" partei="GRÜNE" />
+<candidate id="406" name="Weidner" prename="Felix" partei="GRÜNE" />
+<candidate id="407" name="Bachmann" prename="Iris" partei="GRÜNE" />
+<candidate id="408" name="Pakleppa" prename="Ulrich" partei="GRÜNE" />
+<candidate id="409" name="Schüßler" prename="Ellen" partei="GRÜNE" />
+<candidate id="410" name="Fürst" prename="Hans" partei="GRÜNE" />
+<candidate id="411" name="Crook" prename="Sabine" partei="GRÜNE" />
+<candidate id="412" name="Tramer" prename="Thomas" partei="GRÜNE" />
+<candidate id="413" name="Pörtner" prename="Birgit" partei="GRÜNE" />
+<candidate id="414" name="Opitz" prename="Stefan" partei="GRÜNE" />
+<candidate id="415" name="Fröhlich" prename="Doris" partei="GRÜNE" />
+<candidate id="416" name="Eppich" prename="Axel" partei="GRÜNE" />
+<candidate id="417" name="Dr. Schwaßmann," prename="Helena" partei="GRÜNE" />
+<candidate id="418" name="Hölzer" prename="Dirk" partei="GRÜNE" />
+<candidate id="419" name="Yilmaz" prename="Fatma" partei="GRÜNE" />
+<candidate id="420" name="Gernhardt" prename="Florian" partei="GRÜNE" />
+<candidate id="421" name="Reinhardt" prename="Barbara" partei="GRÜNE" />
+<candidate id="422" name="Miltenberger" prename="Horst" partei="GRÜNE" />
+<candidate id="423" name="Heims" prename="Waltraud" partei="GRÜNE" />
+<candidate id="424" name="Dr. Petry" prename="Lothar" partei="GRÜNE" />
+<candidate id="425" name="Clemens-Neumayer" prename="Sigrid" partei="GRÜNE" />
+<candidate id="426" name="Siche" prename="Holger" partei="GRÜNE" />
+<candidate id="427" name="Jung-Kroh" prename="Imke" partei="GRÜNE" />
+<candidate id="428" name="Stienen" prename="Oliver" partei="GRÜNE" />
+<candidate id="429" name="Lenz" prename="Anne-Katrin" partei="GRÜNE" />
+<candidate id="430" name="Viering" prename="Matthias" partei="GRÜNE" />
+<candidate id="431" name="Daßler" prename="Iris" partei="GRÜNE" />
+<candidate id="432" name="Bergmann" prename="Jörg" partei="GRÜNE" />
+<candidate id="433" name="Comtesse" prename="Christina" partei="GRÜNE" />
+<candidate id="434" name="Dr. Mehlhart" prename="Georg" partei="GRÜNE" />
+<candidate id="435" name="Dr. Malsy" prename="Sabine" partei="GRÜNE" />
+<candidate id="436" name="Ahmadi" prename="Farhad" partei="GRÜNE" />
+<candidate id="437" name="Beckers" prename="Gabriele" partei="GRÜNE" />
+<candidate id="438" name="Dr. Reus" prename="Joachim" partei="GRÜNE" />
+<candidate id="439" name="Albert" prename="Miriam" partei="GRÜNE" />
+<candidate id="440" name="Wünderlich-Dubsky" prename="Martin" partei="GRÜNE" />
+<candidate id="441" name="Buchholzer" prename="Barbara" partei="GRÜNE" />
+<candidate id="442" name="Feyerabend" prename="Matthias" partei="GRÜNE" />
+<candidate id="443" name="Kiel" prename="Lieselotte" partei="GRÜNE" />
+<candidate id="444" name="Fröhlich" prename="Andreas" partei="GRÜNE" />
+<candidate id="445" name="Bassus" prename="Petra" partei="GRÜNE" />
+<candidate id="446" name="Wagner" prename="Wilhelm" partei="GRÜNE" />
+<candidate id="447" name="Rahn-Steinacker" prename="Friederike" partei="GRÜNE" />
+<candidate id="448" name="Dr. Heinrich" prename="Thomas" partei="GRÜNE" />
+<candidate id="449" name="Daum" prename="Monika" partei="GRÜNE" />
+<candidate id="450" name="Henry-Perret" prename="Djaida" partei="GRÜNE" />
+<candidate id="451" name="Steinacker" prename="Thomas" partei="GRÜNE" />
+<candidate id="452" name="Gemes" prename="Agnes" partei="GRÜNE" />
+<candidate id="453" name="Reinheimer" prename="Rolf" partei="GRÜNE" />
+<candidate id="454" name="Jensen" prename="Christine" partei="GRÜNE" />
+<candidate id="455" name="Gillich" prename="Stefan" partei="GRÜNE" />
+<candidate id="456" name="Dr. Klein" prename="Christiane" partei="GRÜNE" />
+<candidate id="457" name="Gieselmann" prename="Rüdiger" partei="GRÜNE" />
+<candidate id="458" name="Kriegler" prename="Beate" partei="GRÜNE" />
+<candidate id="459" name="Simrock" prename="Joachim" partei="GRÜNE" />
+<candidate id="460" name="Gooß" prename="Ursula" partei="GRÜNE" />
+<candidate id="461" name="Niederlohmann" prename="Rolf" partei="GRÜNE" />
+<candidate id="462" name="Moos" prename="Eva-Franziska" partei="GRÜNE" />
+<candidate id="463" name="Dr. Weitz" prename="Tobias" partei="GRÜNE" />
+<candidate id="464" name="Wagner" prename="Daniela" partei="GRÜNE" />
+<candidate id="465" name="Trautmann" prename="Joachim" partei="GRÜNE" />
+<candidate id="466" name="Seelbach-Seibert" prename="Daniela" partei="GRÜNE" />
+<candidate id="467" name="Dr. Lüpertz" prename="Hans-Henning" partei="GRÜNE" />
+<candidate id="468" name="Koulis" prename="Waso" partei="GRÜNE" />
+<candidate id="469" name="Feuchtinger" prename="Klaus" partei="GRÜNE" />
+<candidate id="470" name="Weßling" prename="Ursula" partei="GRÜNE" />
+<candidate id="471" name="Philipp" prename="Jochen" partei="GRÜNE" />
+<candidate id="501" name="Böck" prename="Karl-Heinz" partei="DIE LINKE" />
+<candidate id="502" name="Dr. Krieger" prename="Natalie" partei="DIE LINKE" />
+<candidate id="503" name="Hübscher-Paul" prename="Martina" partei="DIE LINKE" />
+<candidate id="504" name="Krone" prename="Werner" partei="DIE LINKE" />
+<candidate id="505" name="Meißner" prename="Heike" partei="DIE LINKE" />
+<candidate id="506" name="Franke" prename="Ulrich" partei="DIE LINKE" />
+<candidate id="507" name="Budka" prename="Gabriele" partei="DIE LINKE" />
+<candidate id="508" name="Dr. Nold" prename="Stefan" partei="DIE LINKE" />
+<candidate id="509" name="Teipelke" prename="Bianca" partei="DIE LINKE" />
+<candidate id="510" name="Kaya" prename="Hüdaverdi" partei="DIE LINKE" />
+<candidate id="511" name="Scheifl" prename="Veronika" partei="DIE LINKE" />
+<candidate id="512" name="Rugies" prename="Manfred" partei="DIE LINKE" />
+<candidate id="513" name="Welter" prename="Brigitte" partei="DIE LINKE" />
+<candidate id="514" name="Zandi Khoharrizi" prename="Babak" partei="DIE LINKE" />
+<candidate id="515" name="Malik" prename="Imran" partei="DIE LINKE" />
+<candidate id="516" name="Anton" prename="Manuela" partei="DIE LINKE" />
+<candidate id="517" name="Schmidt-Kleiner" prename="Friedrich" partei="DIE LINKE" />
+<candidate id="518" name="Hoppe" prename="Verena" partei="DIE LINKE" />
+<candidate id="519" name="Angelbeck" prename="Helmut" partei="DIE LINKE" />
+<candidate id="520" name="Hofmann" prename="Lisa" partei="DIE LINKE" />
+<candidate id="521" name="Paul" prename="Tobias" partei="DIE LINKE" />
+<candidate id="522" name="Etzel" prename="Lena" partei="DIE LINKE" />
+<candidate id="523" name="Keil" prename="Rainer" partei="DIE LINKE" />
+<candidate id="524" name="Kern" prename="Dagmar" partei="DIE LINKE" />
+<candidate id="525" name="Schenk" prename="Edmund" partei="DIE LINKE" />
+<candidate id="526" name="Jung" prename="Jutta" partei="DIE LINKE" />
+<candidate id="527" name="Brier" prename="Harald" partei="DIE LINKE" />
+<candidate id="528" name="Humeau" prename="Edith" partei="DIE LINKE" />
+<candidate id="529" name="Vogel" prename="Reiner" partei="DIE LINKE" />
+<candidate id="530" name="Klement" prename="Stefanie" partei="DIE LINKE" />
+<candidate id="531" name="Bartelt" prename="Kalle" partei="DIE LINKE" />
+<candidate id="532" name="Plaßmeier" prename="Andrea" partei="DIE LINKE" />
+<candidate id="533" name="Weber" prename="Steffen" partei="DIE LINKE" />
+<candidate id="534" name="Dr. Rieger" prename="Erika" partei="DIE LINKE" />
+<candidate id="535" name="Gilbert" prename="Patrick" partei="DIE LINKE" />
+<candidate id="536" name="Valente Nold" prename="Maria Filomena" partei="DIE LINKE" />
+<candidate id="537" name="Prahl" prename="Falk" partei="DIE LINKE" />
+<candidate id="538" name="Metzger" prename="Kathrin" partei="DIE LINKE" />
+<candidate id="539" name="Schneider" prename="Norbert" partei="DIE LINKE" />
+<candidate id="540" name="Schmidt-Hinderlich" prename="Daniela" partei="DIE LINKE" />
+<candidate id="541" name="Dr. Weber" prename="Wolfgang" partei="DIE LINKE" />
+<candidate id="542" name="Hauschild" prename="Moritz" partei="DIE LINKE" />
+<candidate id="543" name="Schadt" prename="Trutz" partei="DIE LINKE" />
+<candidate id="544" name="Gerfelder-Jung" prename="Frank" partei="DIE LINKE" />
+<candidate id="545" name="Nickel" prename="Michael" partei="DIE LINKE" />
+<candidate id="546" name="Decker" prename="Ralph" partei="DIE LINKE" />
+<candidate id="547" name="Sarezki" prename="Waldemar" partei="DIE LINKE" />
+<candidate id="548" name="Schulz" prename="Peter" partei="DIE LINKE" />
+<candidate id="549" name="Dr. Rümmler" prename="Artur" partei="DIE LINKE" />
+<candidate id="550" name="Nothnagel" prename="Kurt" partei="DIE LINKE" />
+<candidate id="551" name="Steinmeyer" prename="Klaus-Dieter" partei="DIE LINKE" />
+<candidate id="552" name="Kaffenberger" prename="Hans-Michael" partei="DIE LINKE" />
+<candidate id="601" name="Lau" prename="Kerstin" partei="UFFBASSE" />
+<candidate id="602" name="Hang" prename="Georg" partei="UFFBASSE" />
+<candidate id="603" name="Dillmann" prename="Jörg" partei="UFFBASSE" />
+<candidate id="604" name="Emig" prename="Roswita" partei="UFFBASSE" />
+<candidate id="605" name="Barth" prename="Jürgen" partei="UFFBASSE" />
+<candidate id="606" name="Schmitt" prename="Sebastian" partei="UFFBASSE" />
+<candidate id="607" name="Hintzen" prename="Markus" partei="UFFBASSE" />
+<candidate id="608" name="Weise" prename="Wieland" partei="UFFBASSE" />
+<candidate id="609" name="Bauhan" prename="Sven" partei="UFFBASSE" />
+<candidate id="610" name="Weigand" prename="Falk" partei="UFFBASSE" />
+<candidate id="611" name="Schintler" prename="Anton" partei="UFFBASSE" />
+<candidate id="612" name="Maier" prename="Peter" partei="UFFBASSE" />
+<candidate id="613" name="Fittkau" prename="Ludger" partei="UFFBASSE" />
+<candidate id="614" name="Keilich" prename="Barbara" partei="UFFBASSE" />
+<candidate id="615" name="Fischer" prename="Tobias" partei="UFFBASSE" />
+<candidate id="616" name="Schintler" prename="Yuma-Valentin" partei="UFFBASSE" />
+<candidate id="617" name="Beckmann" prename="Barbara" partei="UFFBASSE" />
+<candidate id="618" name="Nebhuth" prename="Alexander" partei="UFFBASSE" />
+<candidate id="619" name="Wagner" prename="Holger" partei="UFFBASSE" />
+<candidate id="620" name="Hang" prename="Brigitte" partei="UFFBASSE" />
+<candidate id="621" name="Schüler" prename="Jürgen" partei="UFFBASSE" />
+<candidate id="622" name="Seitz" prename="Hans-Joachim" partei="UFFBASSE" />
+<candidate id="623" name="Mügge" prename="Doris" partei="UFFBASSE" />
+<candidate id="624" name="Koslowski" prename="Frank" partei="UFFBASSE" />
+<candidate id="625" name="Bauer" prename="Matthias" partei="UFFBASSE" />
+<candidate id="626" name="Bauer" prename="Birgit" partei="UFFBASSE" />
+<candidate id="627" name="Glock" prename="Thomas" partei="UFFBASSE" />
+<candidate id="628" name="Chlosta" prename="Judith" partei="UFFBASSE" />
+<candidate id="629" name="Beckmann" prename="Tim" partei="UFFBASSE" />
+<candidate id="630" name="Turner" prename="Horst" partei="UFFBASSE" />
+<candidate id="631" name="Ehlers" prename="Jan" partei="UFFBASSE" />
+<candidate id="632" name="Brückner" prename="Sebastian" partei="UFFBASSE" />
+<candidate id="633" name="Lavies" prename="Klaus" partei="UFFBASSE" />
+
+<candidate id="701" name="Ertürk" prename="Ali" partei="BIG" />
+<candidate id="702" name="Avdovic" prename="Dzevad" partei="BIG" />
+<candidate id="703" name="El Maaroufi" prename="Asmaa" partei="BIG" />
+<candidate id="704" name="Marasli" prename="Seref" partei="BIG" />
+<candidate id="705" name="Baris" prename="Gürkan" partei="BIG" />
+<candidate id="706" name="Abdulkadir" prename="Abdikalik" partei="BIG" />
+<candidate id="707" name="Öztürk" prename="Emrah" partei="BIG" />
+<candidate id="708" name="Ertürk" prename="Semih" partei="BIG" />
+<candidate id="709" name="Sak" prename="Nail" partei="BIG" />
+<candidate id="710" name="Otu" prename="Talip" partei="BIG" />
+<candidate id="711" name="Demirci" prename="Alper" partei="BIG" />
+<candidate id="712" name="Demirci" prename="Bilal" partei="BIG" />
+<candidate id="713" name="Marasli" prename="Sultan" partei="BIG" />
+<candidate id="714" name="Marasli" prename="Berna" partei="BIG" />
+<candidate id="715" name="Kilic" prename="Soner" partei="BIG" />
+<candidate id="716" name="Kocabasoglu" prename="Sevinc" partei="BIG" />
+<candidate id="717" name="Fachar" prename="Shirin" partei="BIG" />
+<candidate id="718" name="Tekkoyun" prename="Turceun" partei="BIG" />
+<candidate id="719" name="Günes" prename="Selma" partei="BIG" />
+<candidate id="720" name="Razini" prename="Ilham" partei="BIG" />
+<candidate id="721" name="Boulahri" prename="Iman" partei="BIG" />
+<candidate id="722" name="Hadra" prename="Bouchra" partei="BIG" />
+<candidate id="723" name="Ertürk" prename="Ayla" partei="BIG" />
+<candidate id="724" name="El Maaroufi" prename="Saad" partei="BIG" />
+<candidate id="725" name="Fruhauf-Zubi" prename="Aline" partei="BIG" />
+
+<candidate id="801" name="Stricker" prename="Claudia" partei="PIRATEN" />
+<candidate id="802" name="Dr. Schubach" prename="Bernhard" partei="PIRATEN" />
+<candidate id="803" name="Drenger " prename="Markus" partei="PIRATEN" />
+<candidate id="804" name="Cuny " prename="Roland" partei="PIRATEN" />
+<candidate id="805" name="Guck" prename="Tim" partei="PIRATEN" />
+<candidate id="806" name="Geib " prename="Rüdiger" partei="PIRATEN" />
+<candidate id="807" name="Pfützner" prename="Matthias" partei="PIRATEN" />
+<candidate id="808" name="Burow " prename="Pascal" partei="PIRATEN" />
+<candidate id="809" name="Collmann" prename="Gerhard" partei="PIRATEN" />
+<candidate id="810" name="Schäfer " prename="Jens" partei="PIRATEN" />
+<candidate id="811" name="Süß " prename="Christoph" partei="PIRATEN" />
+<candidate id="812" name="Franke " prename="Tobias" partei="PIRATEN" />
+<candidate id="813" name="Tischler " prename="Marco" partei="PIRATEN" />
+<candidate id="814" name="Semrau " prename="Björn" partei="PIRATEN" />
+<candidate id="815" name="Weinreich " prename="Marc" partei="PIRATEN" />
+<candidate id="816" name="Espig" prename="Martin" partei="PIRATEN" />
+<candidate id="817" name="Bitsch" prename="Thorsten" partei="PIRATEN" />
+<candidate id="818" name="Klar " prename="Felix" partei="PIRATEN" />
+<candidate id="819" name="Schumacher " prename="Dennis" partei="PIRATEN" />
+<candidate id="820" name="Löb " prename="Daniel" partei="PIRATEN" />
+<candidate id="821" name="Anisimov " prename="Kyra" partei="PIRATEN" />
+<candidate id="822" name="Görgen" prename="Paul" partei="PIRATEN" />
+<candidate id="823" name="Fujara " prename="Nicola Sophia" partei="PIRATEN" />
+<candidate id="824" name="Donath" prename="Ralf" partei="PIRATEN" />
+
+
+<candidate id="901" name="Klett" prename="Helmut" partei="UWIGA" />
+<candidate id="902" name="Nissen" prename="Jes Peter" partei="UWIGA" />
+<candidate id="903" name="Bauer" prename="Erich" partei="UWIGA" />
+<candidate id="904" name="Heinz" prename="Wolfgang" partei="UWIGA" />
+<candidate id="905" name="Anthes" prename="Hannelore" partei="UWIGA" />
+<candidate id="906" name="Jäger" prename="Herbert" partei="UWIGA" />
+<candidate id="907" name="Zolondek" prename="Jörg" partei="UWIGA" />
+<candidate id="908" name="Selzer" prename="Klaus" partei="UWIGA" />
+<candidate id="909" name="Marheinecke-Fernau" prename="Petra" partei="UWIGA" />
+<candidate id="910" name="Jäger" prename="Brigitte" partei="UWIGA" />
+<candidate id="911" name="Metz" prename="Roger" partei="UWIGA" />
+<candidate id="912" name="Mühlenbein" prename="Hans Josef" partei="UWIGA" />
+<candidate id="913" name="Fischer" prename="Horst" partei="UWIGA" />
+<candidate id="914" name="Fischer" prename="Roswitha" partei="UWIGA" />
+<candidate id="915" name="Jährling" prename="Theresia" partei="UWIGA" />
+<candidate id="916" name="Schuller" prename="Joachim" partei="UWIGA" />
+<candidate id="917" name="Fischer" prename="Tirza" partei="UWIGA" />
+<candidate id="918" name="Klett" prename="Anni" partei="UWIGA" />
+<candidate id="919" name="Rauch" prename="Hans-Werner" partei="UWIGA" />
+<candidate id="920" name="Klett" prename="Joachim" partei="UWIGA" />
+<candidate id="921" name="Kuhnke-Nissen" prename="Gabriele" partei="UWIGA" />
+<candidate id="922" name="Fischer" prename="Jutta" partei="UWIGA" />
+<candidate id="923" name="Gerlach" prename="Karl Heinz" partei="UWIGA" />
+<candidate id="924" name="Schmitz-Schuller" prename="Ursula" partei="UWIGA" />
+<candidate id="925" name="Deutschler" prename="Gudrun" partei="UWIGA" />
+<candidate id="926" name="Weinert" prename="Gerd" partei="UWIGA" />
+<candidate id="927" name="Koch" prename="Arno" partei="UWIGA" />
+<candidate id="928" name="Bauer" prename="Daniel" partei="UWIGA" />
+<candidate id="929" name="Schachtsiek" prename="Anke" partei="UWIGA" />
+<candidate id="930" name="Wolff" prename="Sigrid" partei="UWIGA" />
+<candidate id="931" name="Braun" prename="Werner" partei="UWIGA" />
+<candidate id="932" name="Müller-Ulrich" prename="Gerlind" partei="UWIGA" />
+<candidate id="933" name="Benscheck" prename="Karl" partei="UWIGA" />
+<candidate id="1001" name="Ballweg" prename="Jörg" partei="FWDA" />
+<candidate id="1002" name="Oßmann" prename="Wilfried" partei="FWDA" />
+<candidate id="1003" name="Seiler" prename="Erik" partei="FWDA" />
+<candidate id="1004" name="Eick" prename="Claudia" partei="FWDA" />
+<candidate id="1005" name="Elbert" prename="Siegfried" partei="FWDA" />
+<candidate id="1006" name="Ballweg" prename="Vera" partei="FWDA" />
+<candidate id="1007" name="Elbert" prename="Selina" partei="FWDA" />
+<candidate id="1008" name="Assmuss" prename="Dennis" partei="FWDA" />
+<candidate id="1009" name="Ballweg" prename="Martin" partei="FWDA" />
+<candidate id="1010" name="Llima Ingles de Ballweg" prename="Angeles" partei="FWDA" />
+<candidate id="1011" name="Blum" prename="Eduard" partei="FWDA" />
+<candidate id="1012" name="Schon" prename="Hermann" partei="FWDA" />
+<candidate id="1013" name="Blum" prename="Valentina" partei="FWDA" />
+<candidate id="1014" name="Bollmann" prename="Michael" partei="FWDA" />
+<candidate id="1015" name="Büxler" prename="Heidemarie" partei="FWDA" />
+<candidate id="1016" name="Moritz" prename="Lukas" partei="FWDA" />
+<candidate id="1017" name="Seiler-Ryssel" prename="Angelika" partei="FWDA" />
+<candidate id="1018" name="Visca" prename="Ciro" partei="FWDA" />
+<candidate id="1019" name="Ehrstein" prename="Christian" partei="FWDA" />
+<candidate id="1020" name="Brunner" prename="Klaus" partei="FWDA" />
+<candidate id="1021" name="Fieweger" prename="Pascal" partei="FWDA" />
+<candidate id="1022" name="Grünwald" prename="David" partei="FWDA" />
+<candidate id="1023" name="Hasenkampf" prename="Andreas" partei="FWDA" />
+<candidate id="1024" name="Matthes" prename="Helga" partei="FWDA" />
+<candidate id="1025" name="Traser" prename="Ursula" partei="FWDA" />
+<candidate id="1026" name="Matthes" prename="Karl-Heinz" partei="FWDA" />
+<candidate id="1027" name="Schuwald" prename="Iwona" partei="FWDA" />
+<candidate id="1028" name="Passet" prename="Michaela" partei="FWDA" />
+<candidate id="1029" name="Mühlbeier" prename="Rudolf" partei="FWDA" />
+<candidate id="1030" name="Ryssel" prename="Sven" partei="FWDA" />
+   </candidates>
+</wahlzettelDesign>

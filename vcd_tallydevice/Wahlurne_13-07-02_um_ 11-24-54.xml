@@ -1,0 +1,504 @@
+<urne>
+   <Wahlzettelablage>
+      <wahlzettel id="1">
+         <Wahlzettel id="1" valid="true" commited="1" party="3">
+            <stimmen>
+               <Kandidat>
+                  <id>301</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>302</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>303</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>304</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>305</id>
+                  <wertung>
+                     <stimme id="0">0</stimme>
+                     <stimme id="1">0</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>306</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>307</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>308</id>
+                  <wertung>
+                     <stimme id="0">0</stimme>
+                     <stimme id="1">0</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>310</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>311</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>312</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>313</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">0</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>314</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>315</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>316</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>317</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>318</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>319</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>320</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>321</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>322</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>323</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>324</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>325</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>326</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>327</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>328</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>329</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>330</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>331</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>332</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>333</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>334</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>335</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>336</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>337</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>338</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>339</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>340</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>341</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>342</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>343</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>344</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>345</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>346</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>347</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>348</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>349</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>350</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>351</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>352</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>353</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>354</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>355</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>356</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>357</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>358</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>359</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+               <Kandidat>
+                  <id>504</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+            </stimmen>
+         </Wahlzettel>
+      </wahlzettel>
+   </Wahlzettelablage>
+   <ergebnis>
+      <anzahlWahlzettel>1</anzahlWahlzettel>
+      <wahlleiter>Wahlleiter</wahlleiter>
+      <anzahlUngueltigeWahlzettel>0</anzahlUngueltigeWahlzettel>
+      <wertung>
+         <candidate id="305">0</candidate>
+         <candidate id="304">2</candidate>
+         <candidate id="307">2</candidate>
+         <candidate id="306">2</candidate>
+         <candidate id="308">0</candidate>
+         <candidate id="311">2</candidate>
+         <candidate id="310">2</candidate>
+         <candidate id="313">1</candidate>
+         <candidate id="312">2</candidate>
+         <candidate id="315">1</candidate>
+         <candidate id="314">1</candidate>
+         <candidate id="317">1</candidate>
+         <candidate id="316">1</candidate>
+         <candidate id="319">1</candidate>
+         <candidate id="318">1</candidate>
+         <candidate id="301">2</candidate>
+         <candidate id="302">2</candidate>
+         <candidate id="303">2</candidate>
+         <candidate id="343">1</candidate>
+         <candidate id="342">1</candidate>
+         <candidate id="341">1</candidate>
+         <candidate id="340">1</candidate>
+         <candidate id="339">1</candidate>
+         <candidate id="338">1</candidate>
+         <candidate id="337">1</candidate>
+         <candidate id="336">1</candidate>
+         <candidate id="351">1</candidate>
+         <candidate id="350">1</candidate>
+         <candidate id="349">1</candidate>
+         <candidate id="348">1</candidate>
+         <candidate id="347">1</candidate>
+         <candidate id="346">1</candidate>
+         <candidate id="345">1</candidate>
+         <candidate id="344">1</candidate>
+         <candidate id="326">1</candidate>
+         <candidate id="327">1</candidate>
+         <candidate id="324">1</candidate>
+         <candidate id="325">1</candidate>
+         <candidate id="322">1</candidate>
+         <candidate id="323">1</candidate>
+         <candidate id="320">1</candidate>
+         <candidate id="321">1</candidate>
+         <candidate id="334">1</candidate>
+         <candidate id="335">1</candidate>
+         <candidate id="332">1</candidate>
+         <candidate id="333">1</candidate>
+         <candidate id="330">1</candidate>
+         <candidate id="331">1</candidate>
+         <candidate id="328">1</candidate>
+         <candidate id="329">1</candidate>
+         <candidate id="504">2</candidate>
+         <candidate id="356">1</candidate>
+         <candidate id="357">1</candidate>
+         <candidate id="358">1</candidate>
+         <candidate id="359">1</candidate>
+         <candidate id="352">1</candidate>
+         <candidate id="353">1</candidate>
+         <candidate id="354">1</candidate>
+         <candidate id="355">1</candidate>
+      </wertung>
+   </ergebnis>
+   <wahlvorstand>Wahlleiter</wahlvorstand>
+   <erstelldatum>2013-07-02 23:23:51.76 MESZ</erstelldatum>
+</urne>

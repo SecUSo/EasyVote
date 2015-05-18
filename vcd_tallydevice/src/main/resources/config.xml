@@ -1,0 +1,16 @@
+<evotingconfig>
+   <configparameter>
+      <config key="LOADFROMFILE">1</config>
+      <config key="MACHINEID">0.0.1</config>
+      <config key="WAHLZETTELDESIGNDATEI">wahlzettel.xml</config>
+      <config key="MONITORTALLYGUI">0</config>
+      <config key="MONITORRESULTGUI">1</config>
+      <config key="PLUSMINUSSTEP">5</config>
+      <config key="PAPERSIZE">725</config>
+      <config key="RESULTCOLOR1">#81F781</config>
+      <config key="RESULTCOLOR2">#81BEF7</config>
+       <config key="RESULT_PARTY_FONTSIZE_MAX">14</config>
+       <config key="AUSWERTUNGSPROTOKOLL">1</config>
+       <config key="BALLOTCARD_EQUAL_COLOR">#58ACFA</config>
+   </configparameter>
+</evotingconfig>

@@ -1,0 +1,11 @@
+<urne>
+   <Wahlzettelablage/>
+   <ergebnis>
+      <anzahlWahlzettel>0</anzahlWahlzettel>
+      <wahlleiter>Wahlleiter</wahlleiter>
+      <anzahlUngueltigeWahlzettel>0</anzahlUngueltigeWahlzettel>
+      <wertung/>
+   </ergebnis>
+   <wahlvorstand>Wahlleiter</wahlvorstand>
+   <erstelldatum>2013-07-03 09:52:37.38 MESZ</erstelldatum>
+</urne>

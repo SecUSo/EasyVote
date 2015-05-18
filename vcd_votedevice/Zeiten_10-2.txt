@@ -1,0 +1,3 @@
+Zeit im Programm: 27s
+Zeit im Programm: 15s
+Zeit im Programm: 60s

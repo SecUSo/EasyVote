@@ -1,0 +1,28 @@
+<urne>
+   <Wahlzettelablage>
+      <wahlzettel id="1">
+         <Wahlzettel id="1" valid="true" commited="1" party="2">
+            <stimmen>
+               <Kandidat>
+                  <id>101</id>
+                  <wertung>
+                     <stimme id="0">1</stimme>
+                     <stimme id="1">1</stimme>
+                  </wertung>
+                  <reduzierteKreuze>0</reduzierteKreuze>
+               </Kandidat>
+            </stimmen>
+         </Wahlzettel>
+      </wahlzettel>
+   </Wahlzettelablage>
+   <ergebnis>
+      <anzahlWahlzettel>1</anzahlWahlzettel>
+      <wahlleiter>Wahlleiter</wahlleiter>
+      <anzahlUngueltigeWahlzettel>0</anzahlUngueltigeWahlzettel>
+      <wertung>
+         <candidate id="101">2</candidate>
+      </wertung>
+   </ergebnis>
+   <wahlvorstand>Wahlleiter</wahlvorstand>
+   <erstelldatum>2013-07-03 09:54:20.646 MESZ</erstelldatum>
+</urne>

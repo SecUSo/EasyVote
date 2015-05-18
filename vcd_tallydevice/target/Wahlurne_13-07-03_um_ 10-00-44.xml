@@ -1,0 +1,11 @@
+<urne>
+   <Wahlzettelablage/>
+   <ergebnis>
+      <anzahlWahlzettel>0</anzahlWahlzettel>
+      <wahlleiter>Otto Walkes</wahlleiter>
+      <anzahlUngueltigeWahlzettel>0</anzahlUngueltigeWahlzettel>
+      <wertung/>
+   </ergebnis>
+   <wahlvorstand>Otto Walkes</wahlvorstand>
+   <erstelldatum>2013-07-03 10:00:27.854 MESZ</erstelldatum>
+</urne>
